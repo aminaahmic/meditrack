@@ -8,7 +8,7 @@ The application allows administrators and healthcare workers to manage medicatio
 
 # Live Demo
 
-https://lively-sky-051d74603.7.azurestaticapps.net
+https://meditrackmt.netlify.app/
 
 ---
 
